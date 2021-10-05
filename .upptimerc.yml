@@ -44,7 +44,7 @@ status-website:
   theme: dark
   name: UwUptime
   introTitle: "Tiddies and Balls"
-  introMessage: My infrastructure is just like me: unstable.
+  introMessage: "My infrastructure is just like me: unstable."
   navbar:
     - title: Status
       href: /
