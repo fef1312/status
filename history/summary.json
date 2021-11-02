@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/fef.moe",
     "slug": "fef-s-blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 622,
     "timeDay": 810,
     "timeWeek": 678,
     "timeMonth": 622,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2021-11-02": 1
+      "2021-11-02": 17
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "https://gc.fef.moe/login",
     "icon": "https://favicons.githubusercontent.com/gc.fef.moe",
     "slug": "garbage-collector",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 886,
@@ -35,7 +35,9 @@
     "timeWeek": 947,
     "timeMonth": 886,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-02": 1
+    }
   },
   {
     "name": "Gay Git",
@@ -43,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/git.bsd.gay",
     "slug": "gay-git",
     "status": "down",
-    "uptime": "94.20%",
+    "uptime": "94.16%",
     "uptimeDay": "5.27%",
-    "uptimeWeek": "76.93%",
-    "uptimeMonth": "94.20%",
-    "uptimeYear": "94.20%",
+    "uptimeWeek": "76.77%",
+    "uptimeMonth": "94.16%",
+    "uptimeYear": "94.16%",
     "time": 999,
     "timeDay": 631,
     "timeWeek": 1052,
     "timeMonth": 999,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2021-11-02": 776,
+      "2021-11-02": 792,
       "2021-11-01": 1440,
       "2021-10-31": 109
     }
@@ -65,18 +67,18 @@
     "icon": "https://favicons.githubusercontent.com/ci.bsd.gay",
     "slug": "gay-ci",
     "status": "down",
-    "uptime": "89.46%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.46%",
-    "uptimeYear": "89.46%",
+    "uptime": "89.43%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "89.43%",
+    "uptimeYear": "89.43%",
     "time": 589,
     "timeDay": 904,
     "timeWeek": 548,
     "timeMonth": 589,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2021-11-02": 0,
+      "2021-11-02": 16,
       "2021-10-20": 1093,
       "2021-10-19": 1440,
       "2021-10-18": 1440,
@@ -88,9 +90,9 @@
     "url": "https://pkg.fef.moe/archlinux/",
     "icon": "https://favicons.githubusercontent.com/pkg.fef.moe",
     "slug": "arch-linux-package-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -99,7 +101,9 @@
     "timeWeek": 196,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-02": 0
+    }
   },
   {
     "name": "SMTP (Asuna)",
