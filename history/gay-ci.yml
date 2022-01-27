@@ -1,7 +1,7 @@
 url: https://ci.bsd.gay/
-status: degraded
-code: 503
-responseTime: 3121
-lastUpdated: 2022-01-27T14:30:00.293Z
+status: up
+code: 200
+responseTime: 190
+lastUpdated: 2022-01-27T14:35:27.328Z
 startTime: Tue Oct 05 2021 18:03:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
