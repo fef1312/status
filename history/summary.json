@@ -228,9 +228,9 @@
     "url": "mail.fef.moe",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "smtp-asuna",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -239,7 +239,9 @@
     "timeWeek": 140,
     "timeMonth": 182,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-26": 0
+    }
   },
   {
     "name": "DNS 1 (Rem)",
@@ -265,11 +267,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-2-astolfo",
     "status": "up",
-    "uptime": "93.54%",
+    "uptime": "93.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.76%",
-    "uptimeYear": "93.54%",
+    "uptimeMonth": "54.02%",
+    "uptimeYear": "93.55%",
     "time": 134,
     "timeDay": 94,
     "timeWeek": 104,
