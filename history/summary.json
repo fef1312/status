@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fef.moe.ico",
     "slug": "fef-s-blog",
     "status": "up",
-    "uptime": "92.74%",
+    "uptime": "92.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.24%",
-    "uptimeYear": "94.80%",
+    "uptimeYear": "95.07%",
     "time": 647,
-    "timeDay": 915,
-    "timeWeek": 630,
-    "timeMonth": 621,
+    "timeDay": 699,
+    "timeWeek": 644,
+    "timeMonth": 620,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2023-01-18": 96,
@@ -49,8 +49,7 @@
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
-      "2022-02-07": 1440,
-      "2022-02-06": 1440
+      "2022-02-07": 1440
     }
   },
   {
@@ -59,16 +58,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gc.fef.moe.ico",
     "slug": "garbage-collector",
     "status": "up",
-    "uptime": "97.86%",
+    "uptime": "97.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.98%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "98.32%",
-    "time": 1350,
-    "timeDay": 1128,
-    "timeWeek": 1034,
-    "timeMonth": 1493,
-    "timeYear": 1499,
+    "time": 1349,
+    "timeDay": 1174,
+    "timeWeek": 1031,
+    "timeMonth": 1508,
+    "timeYear": 1500,
     "dailyMinutesDown": {
       "2023-01-19": 88,
       "2023-01-18": 21,
@@ -100,8 +99,7 @@
       "2022-05-23": 1440,
       "2022-05-22": 305,
       "2022-05-13": 398,
-      "2022-03-02": 18,
-      "2022-02-06": 177
+      "2022-03-02": 18
     }
   },
   {
@@ -110,16 +108,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.bsd.gay.ico",
     "slug": "gay-git",
     "status": "up",
-    "uptime": "94.72%",
+    "uptime": "94.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "95.34%",
-    "time": 1077,
-    "timeDay": 1003,
-    "timeWeek": 1106,
-    "timeMonth": 1082,
-    "timeYear": 1122,
+    "time": 1078,
+    "timeDay": 1194,
+    "timeWeek": 1126,
+    "timeMonth": 1078,
+    "timeYear": 1123,
     "dailyMinutesDown": {
       "2023-01-25": 17,
       "2023-01-18": 280,
@@ -165,8 +163,7 @@
       "2022-02-26": 1440,
       "2022-02-25": 1440,
       "2022-02-24": 1440,
-      "2022-02-23": 224,
-      "2022-02-06": 177
+      "2022-02-23": 224
     }
   },
   {
@@ -175,16 +172,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ci.bsd.gay.ico",
     "slug": "gay-ci",
     "status": "up",
-    "uptime": "95.72%",
+    "uptime": "95.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "95.50%",
-    "time": 538,
-    "timeDay": 131,
-    "timeWeek": 249,
-    "timeMonth": 343,
-    "timeYear": 488,
+    "time": 537,
+    "timeDay": 102,
+    "timeWeek": 243,
+    "timeMonth": 342,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2023-01-18": 95,
       "2023-01-17": 216,
@@ -223,8 +220,7 @@
       "2022-05-13": 398,
       "2022-05-11": 32,
       "2022-03-14": 60,
-      "2022-03-09": 89,
-      "2022-02-06": 176
+      "2022-03-09": 89
     }
   },
   {
@@ -239,10 +235,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.89%",
     "time": 194,
-    "timeDay": 123,
-    "timeWeek": 126,
-    "timeMonth": 172,
-    "timeYear": 191,
+    "timeDay": 93,
+    "timeWeek": 119,
+    "timeMonth": 171,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2023-01-25": 23,
       "2023-01-18": 20,
@@ -260,8 +256,7 @@
       "2022-07-31": 120,
       "2022-07-23": 21,
       "2022-06-07": 435,
-      "2022-05-13": 398,
-      "2022-02-06": 176
+      "2022-05-13": 398
     }
   },
   {
@@ -275,10 +270,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.62%",
-    "time": 167,
-    "timeDay": 146,
-    "timeWeek": 171,
-    "timeMonth": 168,
+    "time": 166,
+    "timeDay": 114,
+    "timeWeek": 157,
+    "timeMonth": 165,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2022-07-01": 235,
@@ -301,9 +296,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 122,
-    "timeWeek": 126,
-    "timeMonth": 120,
+    "timeDay": 93,
+    "timeWeek": 119,
+    "timeMonth": 119,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -315,14 +310,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-astolfo",
     "status": "up",
-    "uptime": "96.38%",
+    "uptime": "96.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "95.17%",
     "time": 126,
-    "timeDay": 122,
-    "timeWeek": 127,
+    "timeDay": 94,
+    "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 124,
     "dailyMinutesDown": {
@@ -364,9 +359,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 121,
-    "timeWeek": 126,
-    "timeMonth": 120,
+    "timeDay": 93,
+    "timeWeek": 119,
+    "timeMonth": 119,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2022-09-01": 18,
