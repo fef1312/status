@@ -12,9 +12,6 @@ sites:
   - name: Gay Git
     url: https://git.bsd.gay/
     maxResponseTime: 2000
-  - name: Gay CI
-    url: https://ci.bsd.gay/
-    maxResponseTime: 1000
   - name: Arch Linux Package Mirror
     url: https://pkg.fef.moe/archlinux/
     maxResponseTime: 500
