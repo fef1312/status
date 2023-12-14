@@ -170,9 +170,9 @@
     "url": "78.47.78.184",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-rem",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -182,6 +182,7 @@
     "timeMonth": 118,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-01-25": 16
     }
   },
@@ -190,9 +191,9 @@
     "url": "78.46.85.216",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-astolfo",
-    "status": "up",
+    "status": "down",
     "uptime": "97.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -202,6 +203,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-07-03": 33,
       "2023-01-25": 27,
       "2023-01-18": 20
@@ -212,9 +214,9 @@
     "url": "188.68.36.246",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-3-kaho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -224,6 +226,7 @@
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-07-01": 61,
       "2023-04-24": 79
     }
