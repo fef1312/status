@@ -1,7 +1,7 @@
 url: https://gc.fef.moe/login
-status: degraded
+status: up
 code: 200
-responseTime: 5639
-lastUpdated: 2023-12-28T18:13:53.902Z
+responseTime: 1086
+lastUpdated: 2023-12-28T18:28:25.710Z
 startTime: 2021-10-05T18:03:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
