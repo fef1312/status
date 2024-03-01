@@ -138,9 +138,9 @@
     "url": "mail.fef.moe",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-asuna",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.87%",
@@ -150,6 +150,7 @@
     "timeMonth": 112,
     "timeYear": 154,
     "dailyMinutesDown": {
+      "2024-03-01": 0,
       "2024-02-15": 22,
       "2023-08-02": 613,
       "2023-03-29": 27
