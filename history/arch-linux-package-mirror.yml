@@ -1,7 +1,7 @@
 url: https://pkg.fef.moe/archlinux/
-status: up
+status: degraded
 code: 200
-responseTime: 114
-lastUpdated: 2024-12-31T23:14:04.702Z
+responseTime: 862
+lastUpdated: 2025-01-01T07:15:10.348Z
 startTime: 2021-10-05T18:03:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
