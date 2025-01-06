@@ -13,7 +13,7 @@
     "time": 621,
     "timeDay": 680,
     "timeWeek": 520,
-    "timeMonth": 548,
+    "timeMonth": 534,
     "timeYear": 622,
     "dailyMinutesDown": {
       "2024-12-12": 1334,
@@ -51,8 +51,7 @@
       "2024-06-07": 1319,
       "2024-03-21": 34,
       "2024-03-09": 144,
-      "2024-03-08": 170,
-      "2024-01-07": 58
+      "2024-03-08": 170
     }
   },
   {
@@ -69,7 +68,7 @@
     "time": 930,
     "timeDay": 1073,
     "timeWeek": 946,
-    "timeMonth": 865,
+    "timeMonth": 856,
     "timeYear": 932,
     "dailyMinutesDown": {
       "2024-11-23": 41,
@@ -84,8 +83,7 @@
       "2024-09-11": 342,
       "2024-08-13": 1098,
       "2024-08-12": 1245,
-      "2024-03-21": 22,
-      "2024-01-07": 58
+      "2024-03-21": 22
     }
   },
   {
@@ -95,17 +93,16 @@
     "slug": "gay-git",
     "status": "up",
     "uptime": "86.91%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "97.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.57%",
     "uptimeMonth": "83.35%",
     "uptimeYear": "68.70%",
     "time": 1325,
     "timeDay": 1837,
     "timeWeek": 3324,
-    "timeMonth": 2104,
+    "timeMonth": 2113,
     "timeYear": 1389,
     "dailyMinutesDown": {
-      "2025-01-05": 1,
       "2025-01-01": 245,
       "2024-12-28": 22,
       "2024-12-24": 31,
@@ -237,8 +234,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 249,
       "2024-01-26": 1069,
-      "2024-01-25": 216,
-      "2024-01-07": 58
+      "2024-01-25": 216
     }
   },
   {
@@ -280,7 +276,7 @@
     "time": 127,
     "timeDay": 162,
     "timeWeek": 125,
-    "timeMonth": 115,
+    "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-12-12": 25,
@@ -311,7 +307,7 @@
     "time": 115,
     "timeDay": 162,
     "timeWeek": 127,
-    "timeMonth": 117,
+    "timeMonth": 116,
     "timeYear": 114,
     "dailyMinutesDown": {}
   },
@@ -329,7 +325,7 @@
     "time": 116,
     "timeDay": 163,
     "timeWeek": 128,
-    "timeMonth": 119,
+    "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-11-05": 20,
@@ -351,7 +347,7 @@
     "time": 115,
     "timeDay": 162,
     "timeWeek": 127,
-    "timeMonth": 117,
+    "timeMonth": 116,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-04-23": 31
