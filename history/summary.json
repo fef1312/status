@@ -58,7 +58,7 @@
     "slug": "garbage-collector",
     "status": "up",
     "uptime": "97.52%",
-    "uptimeDay": "1.82%",
+    "uptimeDay": "8.88%",
     "uptimeWeek": "70.46%",
     "uptimeMonth": "93.20%",
     "uptimeYear": "94.76%",
@@ -105,17 +105,17 @@
     "slug": "gay-git",
     "status": "up",
     "uptime": "97.08%",
-    "uptimeDay": "95.78%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "21.81%",
-    "uptimeYear": "89.69%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "22.06%",
+    "uptimeYear": "89.68%",
     "time": 2638,
     "timeDay": 2992,
     "timeWeek": 1917,
     "timeMonth": 1837,
     "timeYear": 2902,
     "dailyMinutesDown": {
-      "2025-04-15": 61,
+      "2025-04-15": 50,
       "2025-04-08": 1052,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -174,7 +174,7 @@
       "2025-01-31": 21,
       "2025-01-30": 39,
       "2025-01-29": 25,
-      "2025-01-27": 58
+      "2025-01-27": 92
     }
   },
   {
