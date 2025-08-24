@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.61%",
+    "uptimeYear": "96.63%",
     "time": 616,
     "timeDay": 555,
     "timeWeek": 551,
@@ -31,8 +31,7 @@
       "2024-08-28": 1309,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
-      "2024-08-25": 1440,
-      "2024-08-24": 1440
+      "2024-08-25": 1440
     }
   },
   {
@@ -92,18 +91,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.bsd.gay.ico",
     "slug": "gay-git",
     "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "89.65%",
+    "uptime": "97.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "89.64%",
     "time": 2594,
     "timeDay": 1616,
     "timeWeek": 1459,
     "timeMonth": 1357,
     "timeYear": 2870,
     "dailyMinutesDown": {
-      "2025-08-23": 9,
       "2025-08-17": 93,
       "2025-08-16": 15,
       "2025-08-11": 62,
@@ -175,7 +173,8 @@
       "2025-02-14": 172,
       "2025-02-13": 184,
       "2025-02-12": 90,
-      "2025-02-11": 113
+      "2025-02-11": 113,
+      "2025-02-10": 52
     }
   },
   {
