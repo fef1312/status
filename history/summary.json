@@ -13,7 +13,7 @@
     "time": 619,
     "timeDay": 855,
     "timeWeek": 683,
-    "timeMonth": 653,
+    "timeMonth": 651,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2024-12-12": 1334,
@@ -45,7 +45,7 @@
     "time": 904,
     "timeDay": 1212,
     "timeWeek": 939,
-    "timeMonth": 948,
+    "timeMonth": 949,
     "timeYear": 906,
     "dailyMinutesDown": {
       "2025-08-12": 255,
@@ -87,19 +87,19 @@
     "url": "https://git.bsd.gay/",
     "icon": "https://icons.duckduckgo.com/ip3/git.bsd.gay.ico",
     "slug": "gay-git",
-    "status": "degraded",
+    "status": "up",
     "uptime": "97.34%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "89.65%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "89.64%",
     "time": 2686,
-    "timeDay": 5845,
-    "timeWeek": 3790,
-    "timeMonth": 2508,
-    "timeYear": 2917,
+    "timeDay": 5428,
+    "timeWeek": 3731,
+    "timeMonth": 2510,
+    "timeYear": 2915,
     "dailyMinutesDown": {
-      "2025-08-27": 44,
+      "2025-08-27": 56,
       "2025-08-26": 117,
       "2025-08-25": 111,
       "2025-08-17": 93,
@@ -188,7 +188,7 @@
     "time": 170,
     "timeDay": 161,
     "timeWeek": 134,
-    "timeMonth": 139,
+    "timeMonth": 138,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2024-11-05": 22
@@ -208,7 +208,7 @@
     "time": 118,
     "timeDay": 159,
     "timeWeek": 134,
-    "timeMonth": 126,
+    "timeMonth": 124,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-12-12": 25,
@@ -233,7 +233,7 @@
     "time": 118,
     "timeDay": 160,
     "timeWeek": 132,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 120,
     "dailyMinutesDown": {}
   },
@@ -251,7 +251,7 @@
     "time": 119,
     "timeDay": 162,
     "timeWeek": 134,
-    "timeMonth": 126,
+    "timeMonth": 125,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2024-11-05": 20
@@ -271,7 +271,7 @@
     "time": 119,
     "timeDay": 160,
     "timeWeek": 133,
-    "timeMonth": 125,
+    "timeMonth": 124,
     "timeYear": 120,
     "dailyMinutesDown": {}
   }
