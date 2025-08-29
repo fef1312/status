@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fef.moe.ico",
     "slug": "fef-s-blog",
     "status": "up",
-    "uptime": "95.12%",
+    "uptime": "95.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -86,18 +86,19 @@
     "url": "https://git.bsd.gay/",
     "icon": "https://icons.duckduckgo.com/ip3/git.bsd.gay.ico",
     "slug": "gay-git",
-    "status": "up",
+    "status": "down",
     "uptime": "97.35%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "96.40%",
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "96.39%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "89.65%",
-    "time": 2770,
+    "time": 2771,
     "timeDay": 7345,
     "timeWeek": 4766,
     "timeMonth": 3258,
     "timeYear": 2984,
     "dailyMinutesDown": {
+      "2025-08-29": 0,
       "2025-08-28": 91,
       "2025-08-27": 44,
       "2025-08-26": 117,
@@ -170,8 +171,7 @@
       "2025-02-22": 63,
       "2025-02-21": 218,
       "2025-02-16": 50,
-      "2025-02-14": 172,
-      "2025-02-13": 22
+      "2025-02-14": 172
     }
   },
   {
