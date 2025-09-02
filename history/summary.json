@@ -86,18 +86,19 @@
     "url": "https://git.bsd.gay/",
     "icon": "https://icons.duckduckgo.com/ip3/git.bsd.gay.ico",
     "slug": "gay-git",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.36%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "98.81%",
     "uptimeWeek": "94.68%",
     "uptimeMonth": "97.95%",
     "uptimeYear": "89.67%",
-    "time": 2849,
-    "timeDay": 2650,
-    "timeWeek": 4654,
-    "timeMonth": 3380,
+    "time": 2851,
+    "timeDay": 2623,
+    "timeWeek": 4623,
+    "timeMonth": 3373,
     "timeYear": 3014,
     "dailyMinutesDown": {
+      "2025-09-02": 0,
       "2025-09-01": 17,
       "2025-08-31": 44,
       "2025-08-30": 43,
@@ -172,7 +173,7 @@
       "2025-02-24": 88,
       "2025-02-23": 323,
       "2025-02-22": 63,
-      "2025-02-21": 84
+      "2025-02-21": 46
     }
   },
   {
