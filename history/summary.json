@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.96%",
-    "time": 619,
-    "timeDay": 918,
-    "timeWeek": 651,
-    "timeMonth": 622,
+    "uptimeYear": "98.04%",
+    "time": 620,
+    "timeDay": 778,
+    "timeWeek": 679,
+    "timeMonth": 631,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2024-12-12": 1334,
@@ -25,8 +25,7 @@
       "2024-10-07": 80,
       "2024-09-11": 1098,
       "2024-09-10": 1440,
-      "2024-09-09": 1440,
-      "2024-09-08": 1440
+      "2024-09-09": 1440
     }
   },
   {
@@ -40,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "94.49%",
-    "time": 904,
-    "timeDay": 1201,
-    "timeWeek": 964,
-    "timeMonth": 939,
-    "timeYear": 908,
+    "time": 905,
+    "timeDay": 1100,
+    "timeWeek": 1010,
+    "timeMonth": 943,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2025-08-12": 255,
       "2025-06-15": 644,
@@ -85,18 +84,19 @@
     "url": "https://git.bsd.gay/",
     "icon": "https://icons.duckduckgo.com/ip3/git.bsd.gay.ico",
     "slug": "gay-git",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.37%",
-    "uptimeDay": "94.18%",
+    "uptimeDay": "95.78%",
     "uptimeWeek": "97.77%",
     "uptimeMonth": "97.66%",
-    "uptimeYear": "89.66%",
-    "time": 2738,
-    "timeDay": 3300,
-    "timeWeek": 2858,
-    "timeMonth": 3409,
+    "uptimeYear": "89.67%",
+    "time": 2740,
+    "timeDay": 3383,
+    "timeWeek": 2836,
+    "timeMonth": 3401,
     "timeYear": 3021,
     "dailyMinutesDown": {
+      "2025-09-08": 0,
       "2025-09-07": 60,
       "2025-09-06": 23,
       "2025-09-05": 17,
@@ -174,7 +174,7 @@
       "2025-02-28": 82,
       "2025-02-27": 32,
       "2025-02-24": 88,
-      "2025-02-23": 285
+      "2025-02-23": 261
     }
   },
   {
@@ -189,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 161,
-    "timeWeek": 121,
-    "timeMonth": 134,
+    "timeDay": 135,
+    "timeWeek": 127,
+    "timeMonth": 135,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2024-11-05": 22
@@ -209,9 +209,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 118,
-    "timeDay": 159,
-    "timeWeek": 123,
-    "timeMonth": 124,
+    "timeDay": 136,
+    "timeWeek": 129,
+    "timeMonth": 125,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-12-12": 25,
@@ -234,9 +234,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 160,
-    "timeWeek": 123,
-    "timeMonth": 123,
+    "timeDay": 141,
+    "timeWeek": 130,
+    "timeMonth": 124,
     "timeYear": 120,
     "dailyMinutesDown": {}
   },
@@ -252,9 +252,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 159,
-    "timeWeek": 123,
-    "timeMonth": 124,
+    "timeDay": 136,
+    "timeWeek": 129,
+    "timeMonth": 125,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2024-11-05": 20
@@ -271,10 +271,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 160,
-    "timeWeek": 122,
-    "timeMonth": 123,
+    "time": 118,
+    "timeDay": 139,
+    "timeWeek": 128,
+    "timeMonth": 124,
     "timeYear": 120,
     "dailyMinutesDown": {}
   }
