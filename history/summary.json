@@ -84,8 +84,8 @@
     "time": 2854,
     "timeDay": 3984,
     "timeWeek": 2521,
-    "timeMonth": 3484,
-    "timeYear": 3048,
+    "timeMonth": 3491,
+    "timeYear": 3047,
     "dailyMinutesDown": {
       "2025-09-26": 41,
       "2025-09-22": 50,
@@ -178,10 +178,10 @@
     "url": "https://pkg.fef.moe/archlinux/",
     "icon": "https://icons.duckduckgo.com/ip3/pkg.fef.moe.ico",
     "slug": "arch-linux-package-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
@@ -190,6 +190,7 @@
     "timeMonth": 144,
     "timeYear": 160,
     "dailyMinutesDown": {
+      "2025-09-26": 1,
       "2024-11-05": 22
     }
   },
