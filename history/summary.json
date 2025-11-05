@@ -5,23 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/fef.moe.ico",
     "slug": "fef-s-blog",
     "status": "up",
-    "uptime": "95.34%",
+    "uptime": "95.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
-    "time": 605,
-    "timeDay": 909,
-    "timeWeek": 811,
-    "timeMonth": 683,
-    "timeYear": 607,
+    "time": 606,
+    "timeDay": 817,
+    "timeWeek": 787,
+    "timeMonth": 688,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2024-12-12": 1334,
       "2024-12-11": 1440,
       "2024-12-10": 407,
       "2024-11-19": 1176,
-      "2024-11-18": 524,
-      "2024-11-05": 22
+      "2024-11-18": 524
     }
   },
   {
@@ -32,13 +31,13 @@
     "status": "up",
     "uptime": "96.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "34.15%",
+    "uptimeWeek": "48.45%",
     "uptimeMonth": "29.85%",
-    "uptimeYear": "89.73%",
+    "uptimeYear": "89.74%",
     "time": 901,
-    "timeDay": 652,
-    "timeWeek": 1003,
-    "timeMonth": 922,
+    "timeDay": 936,
+    "timeWeek": 993,
+    "timeMonth": 930,
     "timeYear": 891,
     "dailyMinutesDown": {
       "2025-11-01": 962,
@@ -97,14 +96,14 @@
     "status": "up",
     "uptime": "97.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "98.21%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "89.56%",
-    "time": 2886,
-    "timeDay": 1974,
-    "timeWeek": 1737,
-    "timeMonth": 1483,
-    "timeYear": 3052,
+    "time": 2887,
+    "timeDay": 1752,
+    "timeWeek": 1422,
+    "timeMonth": 1422,
+    "timeYear": 3053,
     "dailyMinutesDown": {
       "2025-10-31": 49,
       "2025-10-29": 99,
@@ -212,13 +211,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 163,
-    "timeDay": 130,
-    "timeWeek": 181,
+    "timeDay": 139,
+    "timeWeek": 178,
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-09-26": 22,
-      "2024-11-05": 22
+      "2025-09-26": 22
     }
   },
   {
@@ -233,9 +231,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 119,
-    "timeDay": 121,
-    "timeWeek": 131,
-    "timeMonth": 125,
+    "timeDay": 139,
+    "timeWeek": 128,
+    "timeMonth": 126,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2024-12-12": 25,
@@ -258,10 +256,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 121,
-    "timeWeek": 132,
-    "timeMonth": 125,
-    "timeYear": 121,
+    "timeDay": 141,
+    "timeWeek": 129,
+    "timeMonth": 126,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -275,14 +273,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 121,
-    "timeWeek": 133,
-    "timeMonth": 126,
+    "time": 121,
+    "timeDay": 140,
+    "timeWeek": 130,
+    "timeMonth": 127,
     "timeYear": 122,
-    "dailyMinutesDown": {
-      "2024-11-05": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DNS 3 (Kaho)",
@@ -296,10 +292,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 119,
-    "timeWeek": 134,
-    "timeMonth": 126,
-    "timeYear": 121,
+    "timeDay": 147,
+    "timeWeek": 132,
+    "timeMonth": 127,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   }
 ]
