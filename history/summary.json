@@ -93,17 +93,16 @@
     "slug": "gay-git",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "99.25%",
     "time": 2912,
     "timeDay": 3754,
     "timeWeek": 1960,
     "timeMonth": 2217,
     "timeYear": 3080,
     "dailyMinutesDown": {
-      "2025-12-06": 14,
       "2025-12-05": 51,
       "2025-12-01": 32,
       "2025-11-22": 21,
@@ -160,7 +159,7 @@
       "2025-06-08": 16,
       "2025-06-01": 127,
       "2025-05-31": 30,
-      "2025-05-30": 54
+      "2025-05-30": 78
     }
   },
   {
