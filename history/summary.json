@@ -25,16 +25,16 @@
     "status": "down",
     "uptime": "96.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "47.04%",
-    "uptimeMonth": "85.00%",
-    "uptimeYear": "88.50%",
+    "uptimeWeek": "46.34%",
+    "uptimeMonth": "84.84%",
+    "uptimeYear": "88.49%",
     "time": 909,
     "timeDay": 0,
     "timeWeek": 842,
     "timeMonth": 841,
     "timeYear": 894,
     "dailyMinutesDown": {
-      "2025-12-21": 1035,
+      "2025-12-21": 1104,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1254,
@@ -197,7 +197,7 @@
     "status": "up",
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "76.11%",
     "uptimeYear": "98.01%",
     "time": 121,
@@ -259,9 +259,9 @@
     "url": "188.68.36.246",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-3-kaho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -270,6 +270,8 @@
     "timeWeek": 138,
     "timeMonth": 131,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-21": 0
+    }
   }
 ]
