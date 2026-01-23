@@ -4,18 +4,20 @@
     "url": "https://fef.moe/",
     "icon": "https://icons.duckduckgo.com/ip3/fef.moe.ico",
     "slug": "fef-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "95.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 614,
     "timeDay": 495,
     "timeWeek": 490,
     "timeMonth": 612,
     "timeYear": 625,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-23": 2
+    }
   },
   {
     "name": "Garbage Collector",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gc.fef.moe.ico",
     "slug": "garbage-collector",
     "status": "down",
-    "uptime": "94.09%",
+    "uptime": "94.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.64%",
+    "uptimeYear": "79.59%",
     "time": 884,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2026-01-23": 103,
+      "2026-01-23": 359,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -127,18 +129,19 @@
     "url": "https://git.bsd.gay/",
     "icon": "https://icons.duckduckgo.com/ip3/git.bsd.gay.ico",
     "slug": "gay-git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.26%",
-    "time": 2910,
+    "time": 2912,
     "timeDay": 1967,
     "timeWeek": 1878,
     "timeMonth": 1775,
     "timeYear": 3040,
     "dailyMinutesDown": {
+      "2026-01-23": 2,
       "2026-01-19": 41,
       "2026-01-16": 18,
       "2026-01-13": 24,
@@ -200,7 +203,7 @@
       "2025-08-03": 81,
       "2025-07-17": 39,
       "2025-07-16": 63,
-      "2025-07-15": 61
+      "2025-07-15": 34
     }
   },
   {
@@ -208,10 +211,10 @@
     "url": "https://pkg.fef.moe/archlinux/",
     "icon": "https://icons.duckduckgo.com/ip3/pkg.fef.moe.ico",
     "slug": "arch-linux-package-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
@@ -220,6 +223,7 @@
     "timeMonth": 134,
     "timeYear": 150,
     "dailyMinutesDown": {
+      "2026-01-23": 2,
       "2025-09-26": 22
     }
   },
@@ -230,12 +234,12 @@
     "slug": "smtp-asuna",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "95.11%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "97.98%",
     "time": 122,
-    "timeDay": 138,
+    "timeDay": 111,
     "timeWeek": 134,
     "timeMonth": 120,
     "timeYear": 123,
@@ -277,9 +281,9 @@
     "url": "78.46.85.216",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-astolfo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -288,7 +292,9 @@
     "timeWeek": 131,
     "timeMonth": 120,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-23": 0
+    }
   },
   {
     "name": "DNS 3 (Kaho)",
