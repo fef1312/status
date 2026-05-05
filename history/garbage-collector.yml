@@ -1,7 +1,7 @@
 url: https://gc.fef.moe/login
-status: down
+status: degraded
 code: 503
-responseTime: 486
-lastUpdated: 2026-05-04T23:52:50.218Z
+responseTime: 4113
+lastUpdated: 2026-05-05T11:46:27.613Z
 startTime: 2021-10-05T18:03:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
