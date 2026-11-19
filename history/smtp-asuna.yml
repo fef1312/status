@@ -1,7 +1,7 @@
 url: mail.fef.moe
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-19T04:12:08.212Z
+status: up
+code: 200
+responseTime: 124
+lastUpdated: 2026-11-19T08:06:38.148Z
 startTime: 2021-10-05T18:03:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
